@@ -1,0 +1,100 @@
+/*##############external css file########## */
+
+
+/* ###########  global styling STARTS ######### */
+
+/* start of global font of body */
+body{
+   font-family: 'Poppins',sans-serif;
+   font-size:50px;
+
+}
+
+/* start of global font of body */
+/* for font */
+
+.font{
+    font-family: 'Neuton',serif;
+    font-weight: 600;
+
+}
+/* under dash */
+#underDash{
+    height:2px;
+    background-color: black;
+    width: 5%;
+}
+/* theme colour BACKGROUND*/
+.myColor {
+    background-color: #FFBE13;
+}
+/* theme colour TEXT*/
+.textMyColor{
+        color:#FFBE13;
+
+}
+
+/* ###########  global styling ENDS ######### */
+
+/*############ main styling starts */
+/* navbar styling starts */
+#mainNavbar{
+    font-size: medium;
+    font-family: 'Neuton',serif;
+}
+
+/* for setting brand logo color */
+#mainNavbar .navbar-brand{
+    color:#FFBE13;
+    font-size: 40px;
+    letter-spacing: 2px;
+
+}
+/* nav link font */
+#mainNavbar .nav-link{
+    font-size:large;
+}
+/* active button color */
+/* #mainNavbar .navbar-nav .active .nav-link {
+    color:#FFBE13;
+} */
+/* hover option of nav link */
+#mainNavbar .navbar-nav .nav-link:hover {
+    color:#FFBE13;
+}
+
+/* navbar styling end */
+/* style for main name in hero */
+#myName{
+    font-size: 58px;
+    font-family: 'Neuton',serif;
+    font-weight: 600;
+}
+.blockquote-footer{
+    font-size: 20px;
+}
+.mt-3{
+    font-size:25px;
+}
+/* this is for about me */
+.paraSpacing{
+    line-height: 25px;
+    font-size: 23px;
+}
+.aboutme{
+    font-size: 22px;
+}
+/* style for my service */
+.section{
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
